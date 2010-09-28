@@ -1,9 +1,9 @@
 === SimpleSplash ===
-Contributors: ZeroT (Thomas Laﬂ)
+Contributors: Thomas Laszlig;
 Tags: splash
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable tag: 0.1
+Stable tag: 0.2
 
 
 == Description ==
@@ -20,4 +20,5 @@ You can change the SplashScreen by create a new 'splash.php' file in your templa
 
 == Changelog ==
 
-[Releases](http://wordpress.org/extend/plugins/simplesplash/)
+= 0.2 =
+* added multi-language (english/german)

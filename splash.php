@@ -33,13 +33,13 @@ along with SimpleSplash.  If not, see <http://www.gnu.org/licenses/>.
       <h1><?php bloginfo('name'); ?></h1>
       
       <div id="splashcontent">
-        <p><?php _e('Du hast', 'simplesplash'); ?> <a href="http://wordpress.org/extend/plugins/"><strong>SimpleSplash</strong></a> <?php _e('erfolgreich aktiviert.', 'simplesplash'); ?></p>
+        <p><?php _e('You have activated', 'simplesplash'); ?> <a href="http://wordpress.org/extend/plugins/simplesplash/"><strong>SimpleSplash</strong></a> <?php _e('successfully.', 'simplesplash'); ?></p>
   
-        <p><?php _e('Um diese Einstiegsseite Deinen Bed&uuml;rfnissen anzupassen, lege eine neue Datei', 'simplesplash'); ?> <em><?php echo $filename; ?></em> <?php _e('im Theme-Verzeichnis an.', 'simplesplash'); ?></p>
+        <p><?php _e('To edit the entrypage for your own needs, create a new file', 'simplesplash'); ?> <em><?php echo $filename; ?></em> <?php _e('in your theme-directory.', 'simplesplash'); ?></p>
     
         <p id="path"><strong>wp-content/themes/<?php echo get_template(); ?>/splash.php</strong></p>
     
-        <p id="enter"><a class="button-primary" href="<?php bloginfo('home'); ?>">Zur Startseite</a></p>
+        <p id="enter"><a class="button-primary" href="<?php bloginfo('home'); ?>"><?php _e('Zur Startseite'); ?></a></p>
       </div>
     </div>
   </body>

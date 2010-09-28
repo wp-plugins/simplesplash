@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/extend/plugins/
 Description: Shows a SplashScreen to visitors who enter the websites in their Browser or come from another site by referer. The SplashScreen appears only at the frontpage.
 Author: Thomas La&szlig;
 Author URI: http://www.itemis.de
-Version: 0.1
+Version: 0.2
 
 
 This file is part of SimpleSplash.
@@ -25,7 +25,8 @@ along with SimpleSplash.  If not, see <http://www.gnu.org/licenses/>.
 
 */
 
-load_theme_textdomain('simplesplash');
+$plugin_dir = basename(dirname(__FILE__));
+load_plugin_textdomain( 'simplesplash', null, $plugin_dir );
 
 class simplesplash {
 

@@ -1,0 +1,57 @@
+# Translation of the WordPress plugin SimpleSplash 0.1 by Thomas La&szlig;.
+# Copyright (C) 2010 Thomas La&szlig;
+# This file is distributed under the same license as the SimpleSplash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SimpleSplash 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simplesplash\n"
+"POT-Creation-Date: 2010-09-28 12:10+0000\n"
+"PO-Revision-Date: 2010-09-28 14:37+0100\n"
+"Last-Translator: Thomas Laß <Thomas.Lass@itemis.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: splash.php:36
+msgid "You have activated"
+msgstr "Du hast"
+
+#: splash.php:36
+msgid "successfully."
+msgstr "erfolgreich aktiviert."
+
+#: splash.php:38
+msgid "To edit the entrypage for your own needs, create a new file"
+msgstr "Um diese Einstiegsseite Deinen Bed&uuml;rfnissen anzupassen, lege eine neue Datei"
+
+#: splash.php:38
+msgid "in your theme-directory."
+msgstr "im Theme-Verzeichnis an."
+
+#: splash.php:42
+msgid "Visit startpage"
+msgstr "Zur Startseite"
+
+#. Plugin Name of the plugin/theme
+msgid "SimpleSplash"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Shows a SplashScreen to visitors who enter the websites in their Browser or come from another site by referer. The SplashScreen appears only at the frontpage."
+msgstr "Zeigt dem Besucher eine Vorschaltseite, wenn dieser die Website über die Adresszeile des Browsers aufruft oder von einer anderen Website weitergeleitet wurde. Die Vorschaltseite erscheint jedoch nur auf der Startseite."
+
+#. Author of the plugin/theme
+msgid "Thomas La&szlig;"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.itemis.de"
+msgstr ""
+
