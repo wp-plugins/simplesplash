@@ -1,5 +1,5 @@
 === SimpleSplash ===
-Contributors: Thomas La&szlig;
+Contributors: Thomas Lass
 Tags: splash
 Requires at least: 2.8
 Tested up to: 3.0.1
