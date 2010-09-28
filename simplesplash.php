@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/extend/plugins/
 Description: Shows a SplashScreen to visitors who enter the websites in their Browser or come from another site by referer. The SplashScreen appears only at the frontpage.
 Author: Thomas La&szlig;
 Author URI: http://www.itemis.de
-Version: 0.2
+Version: 0.2.1
 
 
 This file is part of SimpleSplash.
